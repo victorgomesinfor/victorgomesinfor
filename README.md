@@ -103,9 +103,10 @@ Acredito que essa combinação entre **experiência prática, capacidade de diag
 * 🎨 CSS3
 * ⚡ JavaScript
 * 🧠 Lógica de Programação
+* ⭐ COBOL
 * 🔀 Git e GitHub
 * 🐧 Linux
-* 🪟 Windows
+* 🪟  Windows
 * 🐍 Python
 * ☕ Java
 
