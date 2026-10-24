@@ -38,7 +38,6 @@ Meu objetivo é encontrar uma oportunidade na área de tecnologia onde eu possa 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Lógica_de_Programação-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=gnu&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
@@ -104,13 +103,12 @@ Acredito que essa combinação entre **experiência prática, capacidade de diag
 * 🎨 CSS3
 * ⚡ JavaScript
 * 🧠 Lógica de Programação
-* ⭐ COBOL
 * 🔀 Git e GitHub
 * 🐧 Linux
 * 🪟  Windows
 * 🐍 Python
 * ☕ Java
-
+*    C
 ---
 
 ## 🎯 Meu objetivo profissional
